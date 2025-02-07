@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore configuration file with sensitive credentials
+config.py
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# VS Code settings folder (if you don't want to share them)
+.vscode/
+
+# Environment variable files
+.env
